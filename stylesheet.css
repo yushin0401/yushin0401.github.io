@@ -1,0 +1,44 @@
+body {
+  background-color: pink;
+}
+
+.header-logo {
+  font-size: 40px;
+  text-align: center;
+}
+
+.btn-i {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  margin: 10px;
+  padding: 12px 80px;
+  background-color: #5dca88;
+  box-shadow: 0px 5px #279C56;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
+}
+
+.form {
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0px 5px rgb(201, 199, 199);
+  display: none;
+  text-align: center;
+  margin: 10px 350px;
+  padding: 10px 10px 40px 10px;
+
+}
+
+
